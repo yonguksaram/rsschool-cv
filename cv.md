@@ -12,7 +12,7 @@
 * GIT
 * Agile (Scrum)
 * Have a nodding acquaintance with Java, C, React, Angular, 
-5. Proudly present my piece of code (ES-6 used): https://github.com/yonguksaram/code-examples-2020/blob/master/js_super_skills
+5. Proudly present my piece of code (ES-6 used): [link](https://github.com/yonguksaram/code-examples-2020/blob/master/js_super_skills)
 6. My experience:
 * Worked as a administrator of estate account system on Belarusian Railway
 * Now working as a salesforce developer (2 year experience)
